@@ -5,6 +5,10 @@ parts:
   - caption: Google Trends Spring 2026
     numbered: True
     chapters:
-      - file: notebooks/Google-Trends.ipynb
+      - file: notebooks/Rahul-Arvind.ipynb
+      - file: notebooks/Akhil-Dasari.ipynb
+      - file: notebooks/Laura-Escher.ipynb
+      - file: notebooks/Shruti-Kundeti.ipynb
+      - file: notebooks/Constantine-Zhang.ipynb
 
   
