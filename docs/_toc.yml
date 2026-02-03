@@ -5,6 +5,6 @@ parts:
   - caption: Google Trends Spring 2026
     numbered: True
     chapters:
-      - file: notebooks/Final_Lit_Review.ipynb
+      - file: notebooks/Lit_Review.ipynb
 
   
